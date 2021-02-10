@@ -1,7 +1,6 @@
 name: confirmation_dialog
 description: A package for Confirmation Dialog (Yes/No type)
 version: 0.0.1
-author: Rahul Badgujar <imrb7here@gmail.com>
 homepage: https://github.com/rahul-badgujar/confirmation_dialog-flutter-package
 
 environment:
